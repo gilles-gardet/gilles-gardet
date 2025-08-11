@@ -1,6 +1,6 @@
 ### Hello, I’m Gilles 🤓
 
-I'm 38 years old and I'm the proud father of two wonderfull little girls.  
+I'm 39 years old and I'm the proud father of two wonderfull little girls.  
 I’m interested on software development in general and especially on *Java* and *Angular*'s projects.  
 I’m currently learning the *Kotlin* language which I find amazing and could replace *Java* as my favorite language.  
 
